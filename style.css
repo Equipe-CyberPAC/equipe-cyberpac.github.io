@@ -1,0 +1,25 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #11171f;
+}
+
+.first-content{
+    width: 100vw;
+    height: 70vh;
+}
+
+.first-content-flexbox{
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.first-content-logo{
+    background-image: url('./img/cyberpac.png');
+    background-size: cover;
+    width: 25vw;
+    height: 25vw;
+    margin-left: 12vw;
+    margin-top: 5vw;
+}
